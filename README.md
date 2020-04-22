@@ -1,4 +1,4 @@
-# Bex
+# Start Setup
 
 > A Vue.js project
 
