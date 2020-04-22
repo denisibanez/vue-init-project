@@ -1,4 +1,4 @@
-# Bex
+# VUE
 
 > A Vue.js project
 
